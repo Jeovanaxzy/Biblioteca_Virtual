@@ -17,7 +17,8 @@
                 <input placeholder="Username" type="email">
                 <i class="bx bxs-user"></i>
             </div>
-            <div class="input-box">
+            <div
+ class="input-box">
                 <input placeholder="Password" type="password">
                 <i class="bx bxs-lock-alt"></i>
             </div>

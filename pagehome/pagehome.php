@@ -1,4 +1,8 @@
-<html lang="pt-BR">
+<?php require("style.php"); ?>
+
+<!DOCTYPE html5>
+
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
